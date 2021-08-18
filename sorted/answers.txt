@@ -1,0 +1,13 @@
+// To run this code, go to: https://sandbox.cs50.io/ to get access of all libraries used.
+
+sort1 uses: bubble sort
+
+How do you know?: The program took about 13 seconds to run 50.000 numbers in reverse order but only 2 to run in sorted order - making the time compatible to the bubble sort.
+
+sort2 uses: merge sort
+
+How do you know?: The program took about 2 seconds to run 50.000 numbers in reverse order and 3 to run in sorted order - making the time compatible to the merge sort.
+
+sort3 uses: selection sort
+
+How do you know?: The program took about 7 seconds to run 50.000 numbers in reverse order and 8 to run in sorted order - making the time compatible to the selection sort.
