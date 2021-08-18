@@ -14,7 +14,7 @@ I've made a simple game: https://scratch.mit.edu/projects/554520421/
 
 ##### Week 1 | C
 
-###### Lab 1 - Hello
+###### Lab 1 - [Hello](https://github.com/sougiu/CS50-s-Introduction/blob/main/hello.c)
 
 The first assignment is to greet the user.
 
@@ -27,7 +27,7 @@ Hello, Giu
 
 
 
-###### Lab 1 - Population Growth
+###### Lab 1 - [Population Growth](https://github.com/sougiu/CS50-s-Introduction/blob/main/population.c)
 
 Determine how long it takes for a population to reach a particular size.
 
@@ -40,7 +40,7 @@ Years: 9
 
 
 
-###### Problem Set 1 - Credit
+###### Problem Set 1 - [Credit](https://github.com/sougiu/CS50-s-Introduction/blob/main/credit.c)
 
 Write a program that prompts the user for a credit card number and then reports (via `printf`) whether it is a valid American Express, MasterCard, or Visa card number.
 
@@ -52,7 +52,7 @@ VISA
 
 
 
-###### Problem Set 1 - Mario
+###### Problem Set 1 - [Mario](https://github.com/sougiu/CS50-s-Introduction/blob/main/mario.c)
 
 Recreate Mario's pyramids in C, albeit in text, using hashes (`#`) for bricks. Each hash is a bit taller than it is wide,  so the pyramids themselves are also be taller than they are wide.
 
@@ -69,7 +69,7 @@ Height: 4
 
 ##### Week 2 | Arrays
 
-###### Lab 2 - Scrabble
+###### Lab 2 - [Scrabble](https://github.com/sougiu/CS50-s-Introduction/blob/main/scrabble.c)
 
 Complete the implementation of `scrabble.c`, such that it determines the winner of a short scrabble-like game, where two players each enter their word, and the higher scoring player wins.
 
@@ -82,7 +82,7 @@ Player 2 wins!
 
 
 
-###### Problem Set 2 - Readability
+###### Problem Set 2 - [Readability](https://github.com/sougiu/CS50-s-Introduction/blob/main/readability.c)
 
 Implement a program that computes the approximate grade level needed to comprehend some text, according to [specifications]( https://cs50.harvard.edu/x/2021/psets/2/readability/#specification]).
 
@@ -94,7 +94,7 @@ Grade 3
 
 
 
-###### Problem Set 2 - Substitution
+###### Problem Set 2 - [Substitution](https://github.com/sougiu/CS50-s-Introduction/blob/main/substitution.c)
 
 Implement a program that implements a substitution cipher, according to [specifications](https://cs50.harvard.edu/x/2021/psets/2/substitution/#specification).
 
@@ -108,13 +108,13 @@ ciphertext: VKXXN
 
 ##### Week 3 | Algorithms
 
-###### Lab 3 - Sort
+###### Lab 3 - [Sort](https://github.com/sougiu/CS50-s-Introduction/tree/main/sorted)
 
 Analyze three sorting programs to determine which algorithms they use.
 
 
 
-###### Problem Set 3 - Plurality
+###### Problem Set 3 - [Plurality](https://github.com/sougiu/CS50-s-Introduction/blob/main/plurality.c)
 
 Implement a program that runs a plurality election, according to [specifications](https://cs50.harvard.edu/x/2021/psets/3/plurality/#specification).
 
@@ -129,7 +129,7 @@ Alice
 
 
 
-###### Problem Set 3 - Runoff
+###### Problem Set 3 - [Runoff](https://github.com/sougiu/CS50-s-Introduction/blob/main/runoff.c)
 
 Implement a program that runs a runoff election, according to [specifications](https://cs50.harvard.edu/x/2021/psets/3/runoff/#specification).
 
@@ -163,7 +163,7 @@ Alice
 
 ##### Week 4 | Memory
 
-###### Lab 4 - Volume
+###### Lab 4 - [Volume](https://github.com/sougiu/CS50-s-Introduction/tree/main/volume)
 
 Write a program to modify the volume of an audio file, according to [implementation details](https://cs50.harvard.edu/x/2021/labs/4/#implementation-details).
 
@@ -173,7 +173,7 @@ $ ./volume input.wav output.wav 2.0
 
 
 
-###### Problem Set 4 - Filter
+###### Problem Set 4 - [Filter](https://github.com/sougiu/CS50-s-Introduction/blob/main/filter/filter.c)
 
 Implement a program that applies filters to BMPs, according to [specifications](https://cs50.harvard.edu/x/2021/psets/4/filter/more/#specification).
 
