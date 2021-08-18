@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 ###### Problem Set 0 - Scratch
 
-Implement in Scratch any project, be it an  interactive story, game, animation, or anything else, subject only to  the [following requirements](https://cs50.harvard.edu/x/2021/psets/0/scratch/#scratch):
+Implement in Scratch any project, be it an  interactive story, game, animation, or anything else, subject only to  the [following requirements](https://cs50.harvard.edu/x/2021/psets/0/scratch/#scratch)
 
 I've made a simple game: https://scratch.mit.edu/projects/554520421/
 
